@@ -1,0 +1,6 @@
+R_DEF: Internal format may change without notice
+local
+color sun_yellow
+drawable ic_peak_sun
+string app_name
+style Theme.SuryaShakti
